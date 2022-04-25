@@ -380,6 +380,7 @@ footer img{
     }
     .intro{
         background: hsl(217, 28%, 15%) url(images/bg-curvy-mobile.svg) bottom no-repeat
+        width:100%
     }
     .intro img{
         width: 90%;
@@ -561,7 +562,8 @@ footer img{
  @media screen and (min-width:769px) and (max-width:1024px){
      .intro{
         background: hsl(217, 28%, 15%) url(images/bg-curvy-desktop.svg) bottom no-repeat
-    }
+        width:100%
+      }
     .stay-productive{
         display: flex;
         flex-direction: column;
